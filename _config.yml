@@ -4,7 +4,7 @@ bio:                'Personal Trainer 위진규'
 description:        "현)더스토리짐 부천점 트레이너"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/weejingyu.png'
+logo:               'assets/img/wee.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
