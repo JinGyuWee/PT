@@ -23,8 +23,8 @@ comments: false
 ## my Photo 
 
 {% capture images %}
-    assets/img/jingyu1.jpeg
-    assets/img/jingyu2.jpeg
+    https://jingyuwee.github.io/PT/assets/img/jingyu1.jpeg
+    https://jingyuwee.github.io/PT/assets/img/jingyu2.jpeg
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
