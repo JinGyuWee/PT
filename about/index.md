@@ -20,11 +20,11 @@ comments: false
 * aniimalflow workshop수료
 * 2016 mr.김포 -65kg
 
-## my Photo 
+## My Photo 
 
 {% capture images %}
-    https://jingyuwee.github.io/PT/assets/img/jingyu1.jpeg
     https://jingyuwee.github.io/PT/assets/img/jingyu2.jpeg
+    https://jingyuwee.github.io/PT/assets/img/jingyu1.jpeg
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
