@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="https://jingyuwee.github.io/PT/"><b>JinGyu</b></a>is PT Trainer.</center>
+<center>PT Trainer <a href="https://jingyuwee.github.io/PT/"><b>JinGyu</b></a>.</center>
 
 ## Licence
 * 사회체육학과 졸업
@@ -28,10 +28,8 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## comments
 
-## Getting Started
+운동경력, 체력여하에 따라 프로그램을 계획하여 서서히 근력을 증가시켜 생활에 활력과 함께 건강한 삶을 만들고 싶습니다.
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-
+습관적 운동으로 건강함을 선사하기 위해 매 시간 회원님과 함께 즐기며 운동하는 트레이너가 되겠습니다. 
