@@ -16,8 +16,8 @@ comments: false
 * 재활테이핑 1급
 * 윈드서핑지도사 1급
 * 태권도 3단
-* 합기도 2단
-* animalflow workshop수료
+* Korean Red Cross CPR Certificate
+* Animalflow Workshop수료
 * 2016 mr.김포 -65kg
 
 ## Career 
