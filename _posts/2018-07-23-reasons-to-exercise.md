@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "우리가 운동을 해야 하는 이유"
-date:   2016-03-15
+date:   2018-07-23
 excerpt: "운동은 많은 질환을 예방할 수 있는 좋은 예방책이다. 현대 사회에서 운동만큼 질병 예방에 효과적인 것도 드물다. 중요한 것은 '오래 사느냐'가 아니라 '간강하게 오래 사느냐'. "
 tag:
 - health 
@@ -24,10 +24,11 @@ comments: true
 본인 체력 수준의 70% 강도로 진행되는 맞춤운동을 통해 큰 키로 성장하게끔 도와주어야 합니다.
 
 
-
 {% capture images %}
     https://jingyuwee.github.io/assets/img/post/post1.jpeg
 {% endcapture %}
+{% include gallery images=images caption="Trainer Jingyu" cols=1 %}
+
 
 ## 운동을 해야하는 진짜 이유.
 
@@ -59,11 +60,6 @@ comments: true
 또 고혈압 환자는 아령이나 역기같은 근력운동을 하지 말아야 한다는 얘기도 있습니다.
 그러나 너무 무겁지 않은 무게는 문제가 되지 않습니다.
 한 번에 8~10회 이상 반복할 수 있을 정도의 무게가 적당합니다.
-
- 
- 
-
-
 
 
 ### Blockquotes
