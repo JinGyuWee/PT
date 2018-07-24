@@ -17,7 +17,7 @@ comments: false
 * 윈드서핑지도사 1급
 * 태권도 3단
 * Korean Red Cross CPR Certificate
-* Animalflow Workshop수료
+* Animalflow Workshop 수료
 * 2016 mr.김포 -65kg
 
 ## Career 
