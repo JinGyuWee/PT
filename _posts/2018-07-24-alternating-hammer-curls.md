@@ -9,7 +9,7 @@ tag:
 - video
 comments: true
 ---
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=vub3q-TACtg" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vub3q-TACtg" frameborder="0"> </iframe>
 
 1. 똑바로 몸통에 서서 팔 길이에 맞춰 각 손에 덤벨을 세웁니다. 팔꿈치는 몸통에 가깝게합니다.
 
@@ -31,6 +31,6 @@ comments: true
 * 해머 컬 (Hammer Curl)과 같지만 팔을 번갈아 움직입니다.
 
 
-- [alternate-hammer-curl][bodybuilding]
+> [alternate-hammer-curl][bodybuilding]
 
 [bodybuilding]: https://www.bodybuilding.com/exercises/alternate-hammer-curl
