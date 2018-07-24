@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="10ac7710-64a5-4d60-87e4-2870eb495ae3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-07-23-markdown-syntax.md" afterPath="$PROJECT_DIR$/_posts/2018-07-23-reasons-to-exercise.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-07-23-reasons-to-exercise.md" afterPath="$PROJECT_DIR$/_posts/2018-07-23-reasons-to-exercise.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,8 +21,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-07-23-reasons-to-exercise.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="234">
-                <caret line="29" column="56" lean-forward="false" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
+              <first_editor relative-caret-position="319">
+                <caret line="66" column="92" lean-forward="false" selection-start-line="66" selection-start-column="92" selection-end-line="66" selection-end-column="92" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -219,12 +219,12 @@
       <workItem from="1532229660647" duration="5208000" />
       <workItem from="1532235349657" duration="35000" />
       <workItem from="1532235440526" duration="326000" />
-      <workItem from="1532406508195" duration="5577000" />
+      <workItem from="1532406508195" duration="5662000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12107000" />
+    <option name="totallyTimeSpent" value="12192000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="803" extended-state="6" />
@@ -649,8 +649,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-23-reasons-to-exercise.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="234">
-            <caret line="29" column="56" lean-forward="false" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
+          <first_editor relative-caret-position="319">
+            <caret line="66" column="92" lean-forward="false" selection-start-line="66" selection-start-column="92" selection-end-line="66" selection-end-column="92" />
             <folding />
           </first_editor>
           <second_editor />

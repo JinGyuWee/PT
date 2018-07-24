@@ -62,7 +62,9 @@ comments: true
 한 번에 8~10회 이상 반복할 수 있을 정도의 무게가 적당합니다.
 
 
-### Blockquotes
+### 기억하기.
 
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
+> 스포츠생리학적으로 볼 때 인체에 운동효과가 미치는 지속시간은 약 48시간이라고 합니다. 그래서 일주일에 3일 이상 운동을 해야 ‘운동효과’를 유지할 수가 있습니다.
+  
+
 
