@@ -23,8 +23,8 @@ comments: false
 ## My Photo 
 
 {% capture images %}
-    https://jingyuwee.github.io/PT/assets/img/jingyu2.jpeg
-    https://jingyuwee.github.io/PT/assets/img/jingyu1.jpeg
+    https://jingyuwee.github.io/assets/img/jingyu2.jpeg
+    https://jingyuwee.github.io/assets/img/jingyu1.jpeg
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of jingyu" cols=2 %}
 
