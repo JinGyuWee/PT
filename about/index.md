@@ -35,11 +35,6 @@ comments: false
     https://jingyuwee.github.io/assets/img/jingyu1.jpeg
 {% endcapture %}
 
-{% capture images %}
-    https://jingyuwee.github.io/assets/img/jingyu3.jpeg
-    https://jingyuwee.github.io/assets/img/jingyu4.jpeg
-{% endcapture %}
-
 {% include gallery images=images caption="Screenshots of jingyu" cols=2 %}
 
 ## comments
