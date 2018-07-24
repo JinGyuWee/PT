@@ -17,7 +17,7 @@ comments: false
 * 윈드서핑지도사 1급
 * 태권도 3단
 * 합기도 2단
-* aniimalflow workshop수료
+* animalflow workshop수료
 * 2016 mr.김포 -65kg
 
 ## My Photo 
