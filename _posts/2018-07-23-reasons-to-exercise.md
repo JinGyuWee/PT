@@ -27,7 +27,7 @@ comments: true
 {% capture images %}
     https://jingyuwee.github.io/assets/img/post/post1.jpeg
 {% endcapture %}
-{% include gallery images=images caption="Trainer Jingyu" cols=1 %}
+{% include gallery images=images caption="Trainer Jingyu" cols=2 %}
 
 
 ## 운동을 해야하는 진짜 이유.
