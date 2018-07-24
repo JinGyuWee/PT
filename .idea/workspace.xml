@@ -57,8 +57,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-07-24-alternating-hammer-curls.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="167">
-                <caret line="11" column="66" lean-forward="false" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
+              <first_editor relative-caret-position="185">
+                <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -199,12 +199,12 @@
       <workItem from="1532229660647" duration="5208000" />
       <workItem from="1532235349657" duration="35000" />
       <workItem from="1532235440526" duration="326000" />
-      <workItem from="1532406508195" duration="7713000" />
+      <workItem from="1532406508195" duration="7848000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14243000" />
+    <option name="totallyTimeSpent" value="14378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="803" extended-state="6" />
@@ -629,8 +629,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-24-alternating-hammer-curls.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="167">
-            <caret line="11" column="66" lean-forward="false" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
+          <first_editor relative-caret-position="185">
+            <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
