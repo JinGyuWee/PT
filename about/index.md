@@ -22,10 +22,10 @@ comments: false
 
 ## Career 
 
-* 스파7 휘트니스 / PT Trainer
+* SPA7 Fitness Club / PT Trainer
 * SEVEN GYM / PT Trainer
 * YoungBody GYM/ PT Trainer
-* TheBody Gym / PT 팀장
+* TheBody Gym / PT Team Leader
 * 현) TheStory GYM / PT Trainer
 
 ## My Photo 
