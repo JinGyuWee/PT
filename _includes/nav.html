@@ -13,7 +13,8 @@
                 <li><a href="{{ site.url }}/about/"><span class="btn btn-inverse">Learn More</span></a></li>
                 {% if site.facebook %}
                 <li>
-                    <a href="http://facebook.com/profile.php?id=100003268965959" target="_blank" rel="noopener noreferrer"><i
+                    <a href="http://facebook.com/profile.php?id=100003268965959" target="_blank"
+                       rel="noopener noreferrer"><i
                             class="fa fa-fw fa-facebook-square"></i> Facebook</a>
                 </li>
                 {% endif %}
@@ -38,7 +39,6 @@
                 <li><a href="{{ site.url }}/tags/">All Tags</a></li>
             </ul>
         </li>
-        {% for link in site.data.navigation %}
         {% if link.url contains 'http' %}
         {% assign domain = '' %}
         {% else %}

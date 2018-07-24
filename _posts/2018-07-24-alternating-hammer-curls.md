@@ -4,8 +4,7 @@ title:  "[이두운동] Alternating hammer curls"
 date:   2018-07-24
 excerpt: "Alternate Hammer Curl Instructions"
 tag:
-- sample
-- post
+- 이두운동
 - video
 comments: true
 ---
