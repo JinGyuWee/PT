@@ -20,6 +20,15 @@ comments: false
 * animalflow workshop수료
 * 2016 mr.김포 -65kg
 
+## Career 
+
+* 스파7 휘트니스 / pt Trainer
+* SEVEN GYM / PT Trainer
+* HELLO GYM / PT Trainer
+* YoungBody GYM/ 피티트레이너
+* TheBody Gym / PT 팀장
+* 현) TheStory GYM / 피티트레이너
+
 ## My Photo 
 
 {% capture images %}
