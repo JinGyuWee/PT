@@ -46,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-07-20-reasons-to-walk.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="36">
+              <first_editor relative-caret-position="-271">
                 <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
                 <folding />
               </first_editor>
@@ -209,12 +209,12 @@
       <workItem from="1532418079294" duration="33000" />
       <workItem from="1532418786518" duration="19000" />
       <workItem from="1533136561135" duration="667000" />
-      <workItem from="1533137987779" duration="499000" />
+      <workItem from="1533137987779" duration="565000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18728000" />
+    <option name="totallyTimeSpent" value="18794000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="803" extended-state="6" />
@@ -584,7 +584,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-20-reasons-to-walk.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="36">
+          <first_editor relative-caret-position="-271">
             <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
             <folding />
           </first_editor>
